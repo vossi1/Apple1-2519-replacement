@@ -19,10 +19,10 @@ International License. See [https://creativecommons.org/licenses/by-sa/4.0/](htt
     - DON't install the 6x 7.5K resistors on the Apple1 board!
     - pcb is for narrow HEF4557BT (available in e.g. China)
     - the 3mm Power LED1 is optional (R1 resistor)
-    - the bottom LED2 is optional (R2 resistor)
+    - bottom LED2 is optional (R2 resistor)
 
-**[Schematic](https://github.com/vossi1/Apple1-Analyzer/blob/master/schematic_v10.png)**
+**[Schematic](https://github.com/vossi1/Apple1-2519-replacement/blob/master/schematic_v10.png)**
 
-**[Parts](https://github.com/vossi1/Apple1-Analyzer/blob/master/parts_v10.txt)**
+**[Parts](https://github.com/vossi1/Apple1-2519-replacement/blob/master/parts_v10.txt)**
 
 ![top](https://github.com/vossi1/Apple1-2519-replacement/blob/master/photos/top.jpg) ![bottom](https://github.com/vossi1/Apple1-2519-replacement/blob/master/photos/bottom.jpg)
