@@ -1,4 +1,5 @@
-# Apple1-2519-replacement - Replacement for Signetics 2519 Shift Register
+# Apple1-2519-replacement 
+**Replacement for the Signetics 2519 Shift Register**
 
 **Copyright (c) 2025 Vossi - v 1.0**
 **www.mos6509.com**
