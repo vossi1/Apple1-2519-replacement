@@ -16,7 +16,7 @@ International License. See [https://creativecommons.org/licenses/by-sa/4.0/](htt
 
     Apple1 2519-Replacement
 
-    - DON't install the 6x 7.5K resistors on the Apple1 board!
+    - DON't install the 6x 7.5K resistors on the Apple1 board! (they overload the cmos outputs)
     - pcb is for narrow HEF4557BT (available in e.g. China)
     - the 3mm Power LED1 is optional (R1 resistor)
     - bottom LED2 is optional (R2 resistor)
